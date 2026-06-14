@@ -1,26 +1,27 @@
 # Leads and Report Analytics Using Machine Learning on Insurance Sales Data
-Overview
+## Overview
 
 This project is an intelligent insurance analytics platform designed to streamline insurance broking operations by centralizing customer, lead, policy, payment, and commission management. The system leverages Machine Learning models to predict lead conversion probability and customer churn risk, enabling data-driven decision-making and improved business performance.
 
-Problem Statement
+## Problem Statement
 
 Insurance brokers often manage data across multiple disconnected systems, leading to inefficiencies, data inconsistencies, and difficulty in tracking customer lifecycles. Additionally, the lack of predictive insights makes it challenging to prioritize potential leads and retain existing customers.
 
-Objectives
-Centralize insurance sales and customer data management.
-Predict lead conversion likelihood using Machine Learning.
-Identify customers at risk of policy non-renewal (churn prediction).
-Automate commission tracking and reporting.
-Provide real-time dashboards and analytics for business insights.
-Improve operational efficiency and customer retention.
-Features
-Customer & Lead Management
-Manage customer profiles and lead information.
-Track lead status throughout the sales pipeline.
-Policy Management
-Store and manage insurance policy details.
-Monitor policy renewals and expirations.
+## Objectives
+-Centralize insurance sales and customer data management.
+-Predict lead conversion likelihood using Machine Learning.
+-Identify customers at risk of policy non-renewal (churn prediction).
+-Automate commission tracking and reporting.
+-Provide real-time dashboards and analytics for business insights.
+-Improve operational efficiency and customer retention.
+
+## Features
+### Customer & Lead Management
+-Manage customer profiles and lead information.
+-Track lead status throughout the sales pipeline.
+### Policy Management
+-Store and manage insurance policy details.
+-Monitor policy renewals and expirations.
 Payment & Commission Tracking
 Record premium payments.
 Calculate and manage agent commissions.
