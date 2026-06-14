@@ -46,13 +46,13 @@ NumPy.
 Dashboard Analytics, 
 Reporting Modules.
 ## System Architecture
-Data Collection and Storage using PostgreSQL (Supabase)
-Data Processing and Feature Engineering
-Machine Learning Model Training
-Lead Conversion Prediction
-Churn Prediction
-Dashboard Visualization and Reporting
-Machine Learning Models
+1. Data Collection and Storage using PostgreSQL (Supabase)
+2. Data Processing and Feature Engineering
+3. Machine Learning Model Training
+4. Lead Conversion Prediction
+5. Churn Prediction
+6. Dashboard Visualization and Reporting
+## Machine Learning Models
 Lead Conversion Model
 
 Predicts the likelihood of a lead converting into an active insurance policy based on customer and lead attributes.
