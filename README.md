@@ -8,47 +8,44 @@ This project is an intelligent insurance analytics platform designed to streamli
 Insurance brokers often manage data across multiple disconnected systems, leading to inefficiencies, data inconsistencies, and difficulty in tracking customer lifecycles. Additionally, the lack of predictive insights makes it challenging to prioritize potential leads and retain existing customers.
 
 ## Objectives
--Centralize insurance sales and customer data management.
--Predict lead conversion likelihood using Machine Learning.
--Identify customers at risk of policy non-renewal (churn prediction).
--Automate commission tracking and reporting.
--Provide real-time dashboards and analytics for business insights.
--Improve operational efficiency and customer retention.
+Centralize insurance sales and customer data management.
+Predict lead conversion likelihood using Machine Learning.
+Identify customers at risk of policy non-renewal (churn prediction).
+Automate commission tracking and reporting.
+Provide real-time dashboards and analytics for business insights.
+Improve operational efficiency and customer retention.
 
 ## Features
 ### Customer & Lead Management
--Manage customer profiles and lead information.
--Track lead status throughout the sales pipeline.
+Manage customer profiles and lead information.
+Track lead status throughout the sales pipeline.
 ### Policy Management
--Store and manage insurance policy details.
--Monitor policy renewals and expirations.
-Payment & Commission Tracking
+Store and manage insurance policy details.
+Monitor policy renewals and expirations.
+### Payment & Commission Tracking
 Record premium payments.
 Calculate and manage agent commissions.
-Lead Conversion Prediction
+### Lead Conversion Prediction
 Predict the probability of lead conversion.
 Prioritize high-value prospects for sales teams.
-Customer Churn Prediction
+### Customer Churn Prediction
 Identify customers likely to discontinue policies.
 Support proactive customer retention strategies.
-Dashboard & Reporting
+### Dashboard & Reporting
 Interactive dashboards for analytics and monitoring.
 Generate reports for business performance evaluation.
-Technology Stack
-Frontend
-FlutterFlow
-Backend
-Supabase
-PostgreSQL
-Machine Learning
-Python
-Scikit-learn
-Pandas
-NumPy
-Data Visualization
-Dashboard Analytics
-Reporting Modules
-System Architecture
+### Technology Stack
+Frontend - FlutterFlow. 
+Backend - Supabase, PostgreSQL. 
+#### Machine Learning
+Python, 
+Scikit-learn, 
+Pandas, 
+NumPy.
+#### Data Visualization
+Dashboard Analytics, 
+Reporting Modules.
+## System Architecture
 Data Collection and Storage using PostgreSQL (Supabase)
 Data Processing and Feature Engineering
 Machine Learning Model Training
